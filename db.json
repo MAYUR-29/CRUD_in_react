@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "firstname": "Shivam",
+      "lastname": "Dubey",
+      "email": "shivan@gmail.com",
+      "state": "Goa",
+      "city": "Panji",
+      "pincode": "45655",
+      "id": 25
+    },
+    {
+      "firstname": "Akshay",
+      "lastname": "Akshay",
+      "email": "ak@gmail.com",
+      "state": "Gujarat",
+      "city": "Surat",
+      "pincode": "56654",
+      "id": 26
+    },
+    {
+      "firstname": "Rushikesh",
+      "lastname": "Kumbhar",
+      "email": "rs@gmail.com",
+      "state": "Delhi",
+      "city": "Noida",
+      "pincode": "89789",
+      "id": 27
+    },
+    {
+      "firstname": "Vipul",
+      "lastname": "Patel",
+      "email": "vip@gmail.com",
+      "state": "Goa",
+      "city": "Mumbai",
+      "pincode": "15454",
+      "id": 28
+    },
+    {
+      "firstname": "Mayur",
+      "lastname": "Patel",
+      "email": "max@gmail.com",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "pincode": "40000",
+      "id": 29
+    },
+    {
+      "firstname": "Ranjeet",
+      "lastname": "Yadav",
+      "email": "ranjeetsponsor@gmail.com",
+      "state": "Maharashtra",
+      "city": "Mumbai",
+      "pincode": "41201",
+      "id": 30
+    }
+  ]
+}

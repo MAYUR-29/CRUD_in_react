@@ -1,0 +1,46 @@
+* {
+ margin: auto;
+ padding: auto;
+ height: auto;
+ width: 100%;
+}
+
+
+.main{
+    margin: 5%;
+    border: 1px solid grey;
+}
+
+
+#search{
+    width: 35%;
+    float: right;
+}
+
+hr.new5 {
+    border: 4px solid #5663e1;
+    border-radius: 5px;
+    width: 25%;
+    margin-top: 0px;
+}
+
+.menu-items{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+    background-color: #5663e1;
+    color: white;
+    padding: 1.5%;
+
+}
+
+.row{
+    --bs-gutter-x: 0rem !important;
+}
+
+
+.data{
+    display: flex;
+    text-decoration: none;
+    list-style-type: none;
+}
